@@ -1,2 +1,14 @@
-hi mom
-hello
+This is a recreation of the classic videogame, Pong, built entirely with open web standards.
+Control the paddle on the right by hovering your cursor over the game.
+
+The left Paddle is controlled by the computer.
+The speed of the ball increses with each paddle hit.
+You can affect the angle of the ball's deflection by hitting the ball higher or lower on the paddle. 
+If you hit the ball with a higher portion of the paddle, the ball will be deflected more upwards, and 
+if you hit the ball with a lower portion of the paddle, the ball will be deflected more downwards. 
+If the ball hits direclty in the middle of the paddle, it will bounce off the paddle just as it would bounce off of a flat wall.
+This applies to the computer's paddle also.
+
+The computer is very good at knowing where the ball will be, but it can only move the paddle so fast. 
+Therefore, a good strategy is to hit the ball into one one corner, 
+then the opposite corner so that the computer will not be able to reach it in time.
